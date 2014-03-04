@@ -1,0 +1,13 @@
+The developer was asked to make the following changes:
+
+1) Change the application so that every distinct user who logs in has access to only their own notes.
+
+2) Allow users to apply arbitrary tags to each note and to filter the main list of notes by a selected tag.
+
+3) Add a search feature.
+
+4) Match the visual style of www.aviacode.com as if this website were to become part of that site.
+
+5) Introduce a unit-testing project and implement unit tests.
+
+Please review the completed items for quality and completeness.
